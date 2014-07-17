@@ -1,0 +1,7 @@
+name: RandoPlugin
+main: com.classcoder.randoplugin.RandoPlugin
+version: 0.1-SNAPSHOT
+commands:
+    overpowered:
+        description: It's verrryyy overpowered and requires randoplugin.overpowered
+        usage: /<command>
